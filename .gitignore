@@ -1,0 +1,40 @@
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE-specific files (for IntelliJ IDEA, Eclipse, etc.)
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# Maven and Gradle directories
+target/
+build/
+
+# Temporary files and backups
+*.tmp
+*.swp
+*.swo
+*.bak
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Swing-specific cache
+*.cache
